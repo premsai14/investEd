@@ -1,4 +1,4 @@
-# investEd
+# InvestEd
 
 RAD Lab 2 Group Assignment
 Team
